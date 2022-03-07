@@ -10,6 +10,7 @@ public class asa2313 {
 		System.out.println("b1");
 		
 		System.out.println("c1");
+		System.out.println("d2");
 	}
 
 }
